@@ -9,16 +9,18 @@ class Lightpars1Spider(scrapy.Spider):
 
     def parse(self, response):
 
-        with open("lightpars1.txt", "w", encoding="utf-8") as file:
-            file.write('')
+        # with open("lightpars1.txt", "w", encoding="utf-8") as file:
+        #     file.write('')
 
-        soup = BeautifulSoup(response.text, 'html.parser')
-        with open("lightpars1.txt", "a", encoding="utf-8") as file:
-            file.write(soup.find('div', class_='ProductCardMain-module__4dYtKq__card').prettify())
+        # soup = BeautifulSoup(response.text, 'html.parser')
+        # with open("lightpars1.txt", "a", encoding="utf-8") as file:
+        #     file.write(soup.find('div', class_='ProductCardMain-module__4dYtKq__card').prettify())
         
            
-            
-        # with open("lightpars1.txt", "a", encoding="utf-8") as file:
-        #     # for product in response.css('div.ProductCardMain-module__4dYtKq__card'):
-        #     yield file.write(str(f'-----------------------------------------------\n{response.css("div.ProductCardMain-module__4dYtKq__card").get()}'))
-                
+        products = response.css('div.ProductCardMain-module__4dYtKq__card') 
+        for product in products:   
+            yield {
+                'name': product.css('div.ProductName::text').get(),
+                'price': product.css('meta[itemprop="price"]::attr(content)').get(),
+                'link': response.urljoin(product.css("a").attrib["href"]),
+                }    
