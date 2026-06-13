@@ -1,0 +1,143 @@
+<div class="ProductCardMain-module__4dYtKq__card">
+ <div class="ProductCardMain-module__4dYtKq__container">
+  <div class="ImageAndActions-module__8Emdyq__imageContainer">
+   <a class="ui-GPFV8" href="/product/nastolnaya-lampa-alnej-beige" tabindex="0">
+    <div class="ProductImage-module__Ve12-G__container ProductImage-module__Ve12-G__bordered">
+     <div class="Img-module___fsrnG__imageWrapper ProductImage-module__Ve12-G__imageContainer ProductImage-module__Ve12-G__portrait">
+      <img alt="Настольная лампа Алней Бежевый" class="Img-module___fsrnG__image ProductImage-module__Ve12-G__image" decoding="async" itemprop="image" loading="lazy" src="https://cdn0.divan.ru/img/v1/Pn4ivqo1ZziEhj2VBtCGUAsZgb6VGLnAbdMxOAlpcog/t:1:f5f3f1:0:0/pd:75:75:75:75/rs:fit:274:274:1:1:ce:0:0/g:ce:0:0/bg:f5f3f1/q:85/czM6Ly9kaXZhbi9wcm9kdWN0LzU0MDQwNDIuanBn.jpg"/>
+     </div>
+    </div>
+   </a>
+   <button class="FavoriteButton-module__T9alMG__button ImageAndActions-module__8Emdyq__rightAction FavoriteButton-module__T9alMG__background FavoriteButton-module__T9alMG__sizeS" data-testid="favorites-card">
+    <svg class="ui-FCp4R FavoriteButton-module__T9alMG__icon" height="30" viewbox="0 0 30 30" width="30" xmlns="http://www.w3.org/2000/svg">
+     <path class="ui-Ej-QX FavoriteButton-module__T9alMG__figure" d="M10.1462 7C6.67925 7 4.5 10.1959 4.5 12.7732C4.5 18.4433 10.6415 22.701 15 26C19.3585 22.701 25.5 18.4433 25.5 12.7732C25.5 10.1959 23.3208 7 19.8538 7C17.8726 7 16.1887 8.64952 15 10.1959C13.7123 8.64952 12.1274 7 10.1462 7Z" stroke-miterlimit="10" stroke-width="1.5">
+     </path>
+    </svg>
+   </button>
+  </div>
+  <div class="MainInfo-module___I5qQa__wrapper ProductCardMain-module__4dYtKq__infoContainer">
+   <link href="https://www.divan.ru/product/nastolnaya-lampa-alnej-beige" itemprop="url"/>
+   <meta content="7490" itemprop="price"/>
+   <meta content="RUB" itemprop="priceCurrency"/>
+   <link href="http://schema.org/InStock" itemprop="availability"/>
+   <div class="MainInfo-module___I5qQa__discountAndTagWrapper">
+    <div class="DiscountAndTag-module__zj2cFW__wrapper MainInfo-module___I5qQa__discountAndTag">
+     <div class="DiscountAndTag-module__zj2cFW__discount">
+      15
+     </div>
+    </div>
+   </div>
+   <div class="MainInfo-module___I5qQa__priceAndReviews">
+    <div class="FullPrice-module__Dh5lpq__wrapper MainInfo-module___I5qQa__prices">
+     <span class="ui-LD-ZU FullPrice-module__Dh5lpq__actual" data-testid="price">
+      7490
+      <!-- -->
+      <span>
+       <span class="ui-XXdez">
+        руб.
+       </span>
+       <span class="ui-VnRfC ui-VDyJR">
+       </span>
+      </span>
+     </span>
+     <div class="FullPrice-module__Dh5lpq__general">
+      <span class="ui-LD-ZU FullPrice-module__Dh5lpq__expired ui-SVNym" data-testid="price">
+       8810
+       <!-- -->
+       <span>
+        <span class="ui-XXdez">
+         руб.
+        </span>
+        <span class="ui-VnRfC ui-VDyJR">
+        </span>
+       </span>
+      </span>
+      <div class="ui-vH-3j FullPrice-module__Dh5lpq__discount ui-1gEaz ui-PzkuZ">
+       <div class="ui-OQy8X">
+        15
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="MainInfo-module___I5qQa__priceAndButton">
+    <div class="FullPrice-module__Dh5lpq__wrapper MainInfo-module___I5qQa__prices">
+     <span class="ui-LD-ZU FullPrice-module__Dh5lpq__actual" data-testid="price">
+      7490
+      <!-- -->
+      <span>
+       <span class="ui-XXdez">
+        руб.
+       </span>
+       <span class="ui-VnRfC ui-VDyJR">
+       </span>
+      </span>
+     </span>
+     <div class="FullPrice-module__Dh5lpq__general">
+      <span class="ui-LD-ZU FullPrice-module__Dh5lpq__expired ui-SVNym" data-testid="price">
+       8810
+       <!-- -->
+       <span>
+        <span class="ui-XXdez">
+         руб.
+        </span>
+        <span class="ui-VnRfC ui-VDyJR">
+        </span>
+       </span>
+      </span>
+      <div class="ui-vH-3j FullPrice-module__Dh5lpq__discount ui-1gEaz ui-PzkuZ">
+       <div class="ui-OQy8X">
+        15
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="BuyButton-module__H3SBKW__button MainInfo-module___I5qQa__circleCart BuyButton-module__H3SBKW__ru BuyButton-module__H3SBKW__default BuyButton-module__H3SBKW__circle" data-testid="icon-buy-button">
+     <svg class="BuyButton-module__H3SBKW__icon" fill="none" height="22" viewbox="0 0 22 22" width="22" xmlns="http://www.w3.org/2000/svg">
+      <path d="M7.33203 8.43314L7.33203 5.82796C7.33203 4.24847 8.50536 3.2998 9.8987 3.2998H12.0987C13.5654 3.2998 14.6654 4.24847 14.6654 5.82796V8.43314" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10">
+      </path>
+      <path d="M18.3328 6.96631H3.66602V16.2797C3.66602 17.7662 4.62899 19.0297 5.88826 19.0297H16.1106C17.3699 19.0297 18.3328 17.8405 18.3328 16.2797V6.96631Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10">
+      </path>
+     </svg>
+     <a class="BuyButton-module__H3SBKW__text add-to-card BuyButton" href="/product/nastolnaya-lampa-alnej-beige">
+      Купить
+     </a>
+    </div>
+   </div>
+   <div class="MainInfo-module___I5qQa__name">
+    <a class="ui-GPFV8" href="/product/nastolnaya-lampa-alnej-beige" tabindex="0">
+     <div class="Name-module__Tc5mSW__name ProductName ActiveProduct" itemprop="name">
+      Настольная лампа Алней Бежевый
+     </div>
+    </a>
+   </div>
+   <div class="MainInfo-module___I5qQa__defaultParams">
+   </div>
+  </div>
+  <div class="AdditionalInfo-module__i3TpSq__wrapper ProductCardMain-module__4dYtKq__additionalInfo" data-testid="product-card-2">
+   <div class="AdditionalInfo-module__i3TpSq__container">
+    <ul class="CharacteristicsList-module__48fbHW__wrapper AdditionalInfo-module__i3TpSq__characteristics">
+     <li class="CharacteristicsList-module__48fbHW__characteristics">
+      <span class="CharacteristicsList-module__48fbHW__title">
+       Размеры (ДхШхВ)
+       <!-- -->
+       ,  см
+      </span>
+      <span class="CharacteristicsList-module__48fbHW__dashedLine">
+      </span>
+      <span>
+       <span>
+        37 x 14 x 41
+       </span>
+      </span>
+     </li>
+    </ul>
+    <div class="BuyButton-module__H3SBKW__button AdditionalInfo-module__i3TpSq__button BuyButton-module__H3SBKW__ru BuyButton-module__H3SBKW__default" data-testid="buy-button">
+     <a class="BuyButton-module__H3SBKW__text add-to-card BuyButton" href="/product/nastolnaya-lampa-alnej-beige">
+      Купить
+     </a>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
